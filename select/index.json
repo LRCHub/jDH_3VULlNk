@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "こいかぜ",
+  "base_artist": "高垣楓 (CV: 早見沙織)",
+  "createdAt": "2026-03-03T12:26:57.301406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "こいかぜ -花葉-",
+      "artist": "高垣楓(CV.早見沙織)",
+      "has_synced": true,
+      "path": "select/01_こいかぜ_-花葉-_高垣楓(CV.早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "こいかぜ [ORT]",
+      "artist": "高垣楓(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/02_こいかぜ_[ORT]_高垣楓(CV_早見沙織).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "こいかぜ",
+      "artist": "高垣楓 (早見沙織)",
+      "has_synced": false,
+      "path": "select/03_こいかぜ_高垣楓_(早見沙織).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "こいかぜ -花葉-",
+      "artist": "高垣楓 (早見沙織)",
+      "has_synced": true,
+      "path": "select/04_こいかぜ_-花葉-_高垣楓_(早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "こいかぜ -花葉- (オリジナル・カラオケ)",
+      "artist": "高垣楓 (早見沙織)",
+      "has_synced": true,
+      "path": "select/05_こいかぜ_-花葉-_(オリジナル・カラオケ)_高垣楓_(早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "こいかぜ -花葉- (オリジナル・カラオケ)",
+      "artist": "高垣楓",
+      "has_synced": true,
+      "path": "select/06_こいかぜ_-花葉-_(オリジナル・カラオケ)_高垣楓.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "こいかぜ",
+      "artist": "早見沙織",
+      "has_synced": false,
+      "path": "select/07_こいかぜ_早見沙織.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "こいかぜ -花葉-",
+      "artist": "高垣楓",
+      "has_synced": true,
+      "path": "select/08_こいかぜ_-花葉-_高垣楓.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "こいかぜ",
+      "artist": "高垣楓(CV早見沙織)",
+      "has_synced": false,
+      "path": "select/09_こいかぜ_高垣楓(CV早見沙織).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "こいかぜ －花葉－",
+      "artist": "高垣楓(CV:早見沙織)",
+      "has_synced": true,
+      "path": "select/10_こいかぜ_-花葉-_高垣楓(CV_早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "こいかぜ －花葉－[instrumental]",
+      "artist": "高垣楓 (早見沙織)",
+      "has_synced": true,
+      "path": "select/11_こいかぜ_-花葉-[instrumental]_高垣楓_(早見沙織).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "こいかぜ",
+      "artist": "高垣楓(CV:早見沙織)",
+      "has_synced": false,
+      "path": "select/pl_01_こいかぜ_高垣楓(CV_早見沙織).txt"
+    }
+  ]
+}
